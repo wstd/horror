@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 6aa95509cf6a25443af5b968845907a4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Big_Yashik
+    100002: Budka_geometry
+    100004: Floor_Korridor
+    100006: Floor_zal
+    100008: Karridor_geometry
+    100010: //RootNode
+    100012: Potolok_Karridor
+    100014: Stairs
+    100016: Stairs_2
+    100018: Zavod_geometry
+    400000: Big_Yashik
+    400002: Budka_geometry
+    400004: Floor_Korridor
+    400006: Floor_zal
+    400008: Karridor_geometry
+    400010: //RootNode
+    400012: Potolok_Karridor
+    400014: Stairs
+    400016: Stairs_2
+    400018: Zavod_geometry
+    2300000: Big_Yashik
+    2300002: Budka_geometry
+    2300004: Floor_Korridor
+    2300006: Floor_zal
+    2300008: Karridor_geometry
+    2300010: Potolok_Karridor
+    2300012: Stairs
+    2300014: Stairs_2
+    2300016: Zavod_geometry
+    3300000: Big_Yashik
+    3300002: Budka_geometry
+    3300004: Floor_Korridor
+    3300006: Floor_zal
+    3300008: Karridor_geometry
+    3300010: Potolok_Karridor
+    3300012: Stairs
+    3300014: Stairs_2
+    3300016: Zavod_geometry
+    4300000: Karridor_geometry
+    4300002: Zavod_geometry
+    4300004: Big_Yashik
+    4300006: Stairs_2
+    4300008: Floor_Korridor
+    4300010: Floor_zal
+    4300012: Budka_geometry
+    4300014: Stairs
+    4300016: Potolok_Karridor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
