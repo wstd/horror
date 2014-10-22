@@ -13,6 +13,11 @@ ModelImporter:
     100014: Stairs
     100016: Stairs_2
     100018: Zavod_geometry
+    100020: Komnata_1
+    100022: Pristroyka_geometry_
+    100024: Stol
+    100026: Stol001
+    100028: Stol002
     400000: Big_Yashik
     400002: Budka_geometry
     400004: Floor_Korridor
@@ -23,6 +28,11 @@ ModelImporter:
     400014: Stairs
     400016: Stairs_2
     400018: Zavod_geometry
+    400020: Komnata_1
+    400022: Pristroyka_geometry_
+    400024: Stol
+    400026: Stol001
+    400028: Stol002
     2300000: Big_Yashik
     2300002: Budka_geometry
     2300004: Floor_Korridor
@@ -32,6 +42,11 @@ ModelImporter:
     2300012: Stairs
     2300014: Stairs_2
     2300016: Zavod_geometry
+    2300018: Komnata_1
+    2300020: Pristroyka_geometry_
+    2300022: Stol
+    2300024: Stol001
+    2300026: Stol002
     3300000: Big_Yashik
     3300002: Budka_geometry
     3300004: Floor_Korridor
@@ -41,6 +56,11 @@ ModelImporter:
     3300012: Stairs
     3300014: Stairs_2
     3300016: Zavod_geometry
+    3300018: Komnata_1
+    3300020: Pristroyka_geometry_
+    3300022: Stol
+    3300024: Stol001
+    3300026: Stol002
     4300000: Karridor_geometry
     4300002: Zavod_geometry
     4300004: Big_Yashik
@@ -50,9 +70,14 @@ ModelImporter:
     4300012: Budka_geometry
     4300014: Stairs
     4300016: Potolok_Karridor
+    4300018: Pristroyka_geometry_
+    4300020: Komnata_1
+    4300022: Stol
+    4300024: Stol001
+    4300026: Stol002
     9500000: //RootNode
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
@@ -70,7 +95,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00100000005
+    globalScale: .00200000009
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -88,7 +113,7 @@ ModelImporter:
     splitTangentsAcrossUV: 1
     normalImportMode: 0
     tangentImportMode: 1
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     human: []
@@ -102,6 +127,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 0
   userData: 
