@@ -18,6 +18,63 @@ ModelImporter:
     100024: Stol
     100026: Stol001
     100028: Stol002
+    100030: Box002
+    100032: Box007
+    100034: Circle001
+    100036: Circle002
+    100038: Cylinder001
+    100040: Cylinder002
+    100042: gantry_008
+    100044: gantry_010
+    100046: glass_020
+    100048: Line001
+    100050: Line004
+    100052: Line005
+    100054: Object004
+    100056: Object005
+    100058: Object006
+    100060: Object007
+    100062: Object008
+    100064: Object009
+    100066: Object012
+    100068: Object013
+    100070: Object014
+    100072: Object015
+    100074: Object016
+    100076: Object018
+    100078: Object019
+    100080: Object020
+    100082: Object021
+    100084: Object022
+    100086: Object023
+    100088: Object024
+    100090: Object026
+    100092: Object027
+    100094: prop_computerUnit_C_0013
+    100096: prop_powerCube_003
+    100098: prop_powerCube_012
+    100100: prop_powerCube_013
+    100102: prop_powerCube_014
+    100104: prop_powerCube_015
+    100106: walls_037
+    100108: walls_040
+    100110: walls_065
+    100112: walls_066
+    100114: walls_068
+    100116: walls_069
+    100118: walls_070
+    100120: Window_1
+    100122: Window_2
+    100124: Window_3
+    100126: Window_4
+    100128: Window_4 1
+    100130: wire_006
+    100132: wire_007
+    100134: wire_008
+    100136: wire_009
+    100138: wire_010
+    100140: wire_011
+    100142: wire_021
     400000: Big_Yashik
     400002: Budka_geometry
     400004: Floor_Korridor
@@ -33,6 +90,63 @@ ModelImporter:
     400024: Stol
     400026: Stol001
     400028: Stol002
+    400030: Box002
+    400032: Box007
+    400034: Circle001
+    400036: Circle002
+    400038: Cylinder001
+    400040: Cylinder002
+    400042: gantry_008
+    400044: gantry_010
+    400046: glass_020
+    400048: Line001
+    400050: Line004
+    400052: Line005
+    400054: Object004
+    400056: Object005
+    400058: Object006
+    400060: Object007
+    400062: Object008
+    400064: Object009
+    400066: Object012
+    400068: Object013
+    400070: Object014
+    400072: Object015
+    400074: Object016
+    400076: Object018
+    400078: Object019
+    400080: Object020
+    400082: Object021
+    400084: Object022
+    400086: Object023
+    400088: Object024
+    400090: Object026
+    400092: Object027
+    400094: prop_computerUnit_C_0013
+    400096: prop_powerCube_003
+    400098: prop_powerCube_012
+    400100: prop_powerCube_013
+    400102: prop_powerCube_014
+    400104: prop_powerCube_015
+    400106: walls_037
+    400108: walls_040
+    400110: walls_065
+    400112: walls_066
+    400114: walls_068
+    400116: walls_069
+    400118: walls_070
+    400120: Window_1
+    400122: Window_2
+    400124: Window_3
+    400126: Window_4
+    400128: Window_4 1
+    400130: wire_006
+    400132: wire_007
+    400134: wire_008
+    400136: wire_009
+    400138: wire_010
+    400140: wire_011
+    400142: wire_021
     2300000: Big_Yashik
     2300002: Budka_geometry
     2300004: Floor_Korridor
@@ -47,6 +161,63 @@ ModelImporter:
     2300022: Stol
     2300024: Stol001
     2300026: Stol002
+    2300028: Box002
+    2300030: Box007
+    2300032: Circle001
+    2300034: Circle002
+    2300036: Cylinder001
+    2300038: Cylinder002
+    2300040: gantry_008
+    2300042: gantry_010
+    2300044: glass_020
+    2300046: Line001
+    2300048: Line004
+    2300050: Line005
+    2300052: Object004
+    2300054: Object005
+    2300056: Object006
+    2300058: Object007
+    2300060: Object008
+    2300062: Object009
+    2300064: Object012
+    2300066: Object013
+    2300068: Object014
+    2300070: Object015
+    2300072: Object016
+    2300074: Object018
+    2300076: Object019
+    2300078: Object020
+    2300080: Object021
+    2300082: Object022
+    2300084: Object023
+    2300086: Object024
+    2300088: Object026
+    2300090: Object027
+    2300092: prop_computerUnit_C_0013
+    2300094: prop_powerCube_003
+    2300096: prop_powerCube_012
+    2300098: prop_powerCube_013
+    2300100: prop_powerCube_014
+    2300102: prop_powerCube_015
+    2300104: walls_037
+    2300106: walls_040
+    2300108: walls_065
+    2300110: walls_066
+    2300112: walls_068
+    2300114: walls_069
+    2300116: walls_070
+    2300118: Window_1
+    2300120: Window_2
+    2300122: Window_3
+    2300124: Window_4
+    2300126: Window_4 1
+    2300128: wire_006
+    2300130: wire_007
+    2300132: wire_008
+    2300134: wire_009
+    2300136: wire_010
+    2300138: wire_011
+    2300140: wire_021
     3300000: Big_Yashik
     3300002: Budka_geometry
     3300004: Floor_Korridor
@@ -61,6 +232,63 @@ ModelImporter:
     3300022: Stol
     3300024: Stol001
     3300026: Stol002
+    3300028: Box002
+    3300030: Box007
+    3300032: Circle001
+    3300034: Circle002
+    3300036: Cylinder001
+    3300038: Cylinder002
+    3300040: gantry_008
+    3300042: gantry_010
+    3300044: glass_020
+    3300046: Line001
+    3300048: Line004
+    3300050: Line005
+    3300052: Object004
+    3300054: Object005
+    3300056: Object006
+    3300058: Object007
+    3300060: Object008
+    3300062: Object009
+    3300064: Object012
+    3300066: Object013
+    3300068: Object014
+    3300070: Object015
+    3300072: Object016
+    3300074: Object018
+    3300076: Object019
+    3300078: Object020
+    3300080: Object021
+    3300082: Object022
+    3300084: Object023
+    3300086: Object024
+    3300088: Object026
+    3300090: Object027
+    3300092: prop_computerUnit_C_0013
+    3300094: prop_powerCube_003
+    3300096: prop_powerCube_012
+    3300098: prop_powerCube_013
+    3300100: prop_powerCube_014
+    3300102: prop_powerCube_015
+    3300104: walls_037
+    3300106: walls_040
+    3300108: walls_065
+    3300110: walls_066
+    3300112: walls_068
+    3300114: walls_069
+    3300116: walls_070
+    3300118: Window_1
+    3300120: Window_2
+    3300122: Window_3
+    3300124: Window_4
+    3300126: Window_4 1
+    3300128: wire_006
+    3300130: wire_007
+    3300132: wire_008
+    3300134: wire_009
+    3300136: wire_010
+    3300138: wire_011
+    3300140: wire_021
     4300000: Karridor_geometry
     4300002: Zavod_geometry
     4300004: Big_Yashik
@@ -75,6 +303,63 @@ ModelImporter:
     4300022: Stol
     4300024: Stol001
     4300026: Stol002
+    4300028: Object004
+    4300030: Box002
+    4300032: Window_3
+    4300034: Window_4
+    4300036: Window_4
+    4300038: Window_2
+    4300040: Window_1
+    4300042: Box007
+    4300044: Cylinder001
+    4300046: Circle001
+    4300048: Circle002
+    4300050: Cylinder002
+    4300052: Line001
+    4300054: Line004
+    4300056: Line005
+    4300058: gantry_008
+    4300060: gantry_010
+    4300062: Object005
+    4300064: Object006
+    4300066: Object007
+    4300068: Object008
+    4300070: Object009
+    4300072: Object012
+    4300074: Object013
+    4300076: Object014
+    4300078: Object015
+    4300080: Object016
+    4300082: Object018
+    4300084: Object019
+    4300086: Object020
+    4300088: Object021
+    4300090: Object022
+    4300092: Object023
+    4300094: Object024
+    4300096: Object026
+    4300098: Object027
+    4300100: prop_powerCube_015
+    4300102: prop_computerUnit_C_0013
+    4300104: prop_powerCube_014
+    4300106: prop_powerCube_013
+    4300108: prop_powerCube_012
+    4300110: prop_powerCube_003
+    4300112: glass_020
+    4300114: wire_021
+    4300116: wire_011
+    4300118: wire_010
+    4300120: wire_009
+    4300122: wire_008
+    4300124: wire_007
+    4300126: wire_006
+    4300128: walls_070
+    4300130: walls_069
+    4300132: walls_068
+    4300134: walls_066
+    4300136: walls_065
+    4300138: walls_040
+    4300140: walls_037
     9500000: //RootNode
   materials:
     importMaterials: 0
