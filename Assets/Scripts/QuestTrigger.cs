@@ -6,6 +6,7 @@ public class QuestTrigger : MonoBehaviour
 	public QuestItem.ItemType MyItemType;
 	public QuestItem.ItemType RequiredItemType;
 	public QuestItem.ItemGroup ItemGroup;
+	public bool DestroyMe;
 	public bool DestroyUsedItem;
 	public bool Takeable;
 	public string NoItemPhrase;
@@ -17,6 +18,10 @@ public class QuestTrigger : MonoBehaviour
 		{
 			QuestController.AddToInventory(GetMyQuestItem());
 			QuestController.onTalk(PickItemPhrase);
+		}
+
+		if (DestroyMe)
+		{
 			Destroy(gameObject);
 		}
 

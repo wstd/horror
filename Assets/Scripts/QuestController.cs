@@ -9,13 +9,15 @@ public class QuestItem
 	{
 		None = 0,
 		Key = 1,
-		Door = 2
+		Door = 2,
+		Mystery = 3
 	}
 
 	public enum ItemGroup
 	{
 		None = 0,
 		StoreRoom = 1,
+		Corridor = 2
 	}
 
 	public ItemType Type;
